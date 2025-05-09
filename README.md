@@ -1,5 +1,5 @@
 ```js
-import { AboutMe } from '@acsuprabh';
+import { AboutMe } from '@suprrbh';
 
 class Student {
   name     = 'Suprabh Acharya';
